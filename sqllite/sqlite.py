@@ -1,3 +1,4 @@
+# Example of SQLite usage
 
 import sqlite3
 
