@@ -12,11 +12,11 @@ class MyIterator:
 
 if __name__ == '__main__':
     my_iterable = MyIterator()
-    # iter() and __iter__() are the same methods
+    # iter() and __iter__() are the same method
     # iterator = my_iterable.__iter__()
     iterator = iter(my_iterable)
     
-    # next() and __next__() are the same methods
+    # next() and __next__() are the same method
     # print(iterator.__next__())
     # print(iterator.__next__())
     # print(iterator.__next__())
